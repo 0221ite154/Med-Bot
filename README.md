@@ -1,2 +1,2 @@
 # Med-Bot
-A chat bot which help user to book there appointment
+A chat bot which help user to book there appointment to any doctor in the hospital
